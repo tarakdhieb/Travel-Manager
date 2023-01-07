@@ -4,14 +4,10 @@
 Ce programme est écrit en langage C .Il permet de voir tous les voyages disponibles entre deux dates et gère les dates des voyages.
 Nous avons utilisé la notion de liste chaînée pour gagner de l'espace et un fichier pour stocker tous les inforations. Ce programme effectue les tâches suivantes :
 
-● Ajouter un voyage
-
+● Ajouter un voyage.
 ● Afficher la description d’un voyage.
-
 ● Supprimer un voyage.
-
 ● Modifier un voyage.
-
 ● Recherche des voyages disponibles selon des dates précises.
 
 ### Les nouveaux types utilisés :
