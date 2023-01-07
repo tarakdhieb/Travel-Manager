@@ -9,12 +9,14 @@ Nous avons utilisé la notion de liste chaînée pour gagner de l'espace et un f
 ● Supprimer un voyage.
 ● Modifier un voyage.
 ● Recherche des voyages disponibles selon des dates précises.
+
 ### Les nouveaux types utilisés :
 j'ai créé 2 types dans ce programme qui sont :
 -Date :
 Qui a 3 champs jj:jours, mm:moins, aa:ans.
 -Voyage :
 Qui a 8 champs qui sont id, destination, description, nbPlaces, nbPlacesRestantes,dateDebut, dateFin et suivant.
+
 ### Fonctions utilisées :
 Tous d'abord, j'ai declaré un pointeur comme une paramètre global, qui pointe à l'adresse du 1er élément de la liste chaînée et j'ai créé 7 fonctions dans ce programme qui sont :
 - Saisie :
